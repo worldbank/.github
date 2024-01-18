@@ -2,6 +2,17 @@
 
 Welcome to the World Bank's GitHub organization! This GitHub organization houses various projects, tools, and resources developed by our teams to support global development efforts.
 
+## Discussions
+
+We welcome discussions related to data management, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels:
+
+- [📣 Announcements](https://github.com/orgs/worldbank/discussions/categories/announcements): Stay tuned with latest announcements
+- [💬 General](https://github.com/orgs/worldbank/discussions/categories/general): Chat about anything and everything here
+- [💡 Ideas](https://github.com/orgs/worldbank/discussions/categories/ideas): Share ideas for new features and projects
+- [🙏 Q&A](https://github.com/orgs/worldbank/discussions/categories/q-a): Ask the community for help
+
+If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/worldbank/discussions/categories/q-a) section. Let's collaborate to drive positive change and contribute to the World Bank's mission!
+
 ## Contributing
 
 We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file in each repository.
