@@ -4,7 +4,7 @@ Welcome to the World Bank's GitHub organization! This GitHub organization houses
 
 ## Discussions
 
-We welcome discussions related to data management, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels:
+We welcome [discussions](https://github.com/orgs/worldbank/discussions) related to data management, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels:
 
 - [📣 Announcements](https://github.com/orgs/worldbank/discussions/categories/announcements): Stay tuned with latest announcements
 - [💬 General](https://github.com/orgs/worldbank/discussions/categories/general): Chat about anything and everything here
