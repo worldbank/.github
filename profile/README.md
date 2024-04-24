@@ -2,6 +2,8 @@
 
 Welcome to the World Bank's GitHub organization! This GitHub organization houses various projects, tools, and resources developed by our teams to support global development efforts.
 
+***✨ Not yet a member?*** [Join the World Bank organization on GitHub](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912).
+
 ## Contributing
 
 We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file in each repository.
