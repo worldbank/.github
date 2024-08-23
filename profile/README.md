@@ -6,11 +6,11 @@ Welcome to the World Bank's GitHub organization! This GitHub organization houses
 
 ## Contributing
 
-We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file in each repository.
+We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](https://github.com/worldbank/.github/blob/main/CONTRIBUTING.md) file in each repository.
 
 ## Code of Conduct
 
-We maintain a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure an inclusive and respectful environment for everyone. Please adhere to it in all interactions within our community.
+We maintain a [Code of Conduct](https://github.com/worldbank/.github/blob/main/CODE_OF_CONDUCT.md) to ensure an inclusive and respectful environment for everyone. Please adhere to it in all interactions within our community.
 
 ## Discussions
 
