@@ -1,20 +1,24 @@
 # World Bank on GitHub
 
-Welcome to the World Bank's GitHub organization! This GitHub organization houses various projects, tools, and resources developed by our teams to support global development efforts.
+Welcome to the World Bank’s GitHub organization! Here, you’ll find a variety of projects, tools, and resources developed by our teams to support global development initiatives.
 
 ***✨ Not yet a member?*** [Join the World Bank organization on GitHub](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (eServices on the Intranet).
 
+## Our Mission
+
+The World Bank Group's mission is to end extreme poverty and boost shared prosperity on a livable planet. We collaborate with governments, private sector partners, and civil society to tackle the most pressing challenges facing the world today. Through innovation, data-driven insights, and sustainable development practices, we aim to create a better future for all. Our work spans various sectors, including education, healthcare, infrastructure, and environmental sustainability. To learn more about who we are and what we do, visit our official website: worldbank.org.
+
 ## Contributing
 
-We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](https://github.com/worldbank/.github/blob/main/CONTRIBUTING.md) file in each repository.
+We welcome contributions from the open-source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](https://github.com/worldbank/.github/blob/main/CONTRIBUTING.md) file in each repository.
 
 ## Code of Conduct
 
-We maintain a [Code of Conduct](https://github.com/worldbank/.github/blob/main/CODE_OF_CONDUCT.md) to ensure an inclusive and respectful environment for everyone. Please adhere to it in all interactions within our community.
+We are committed to fostering an inclusive and respectful environment for everyone. Please review and adhere to our [Code of Conduct](https://github.com/worldbank/.github/blob/main/CODE_OF_CONDUCT.md) in all interactions within our community.
 
 ## Discussions
 
-We welcome [discussions](https://github.com/orgs/worldbank/discussions) related to data, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels:
+We encourage [discussions](https://github.com/orgs/worldbank/discussions) on topics related to data, development economics, and other relevant areas. Feel free to start discussions, ask questions, or share insights through the following channels:
 
 - [📣 Announcements](https://github.com/orgs/worldbank/discussions/categories/announcements): Stay tuned with latest announcements
 - [💬 General](https://github.com/orgs/worldbank/discussions/categories/general): Chat about anything and everything here
