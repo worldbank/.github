@@ -2,7 +2,7 @@
 
 Welcome to the World Bank’s GitHub organization! Here, you’ll find a variety of projects, tools, and resources developed by our teams to support global development initiatives.
 
-***✨ Not yet a member?*** [Join the World Bank organization on GitHub](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (eServices on the Intranet).
+***✨ Not yet a member?*** Submit a request via eServices on the WB intranet.
 
 ## Our Mission
 
