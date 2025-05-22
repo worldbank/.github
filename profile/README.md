@@ -33,4 +33,4 @@ For inquiries or more information about our organization and projects, you can r
 
 ## License
 
-Unless otherwise specified, all code and content in our repositories are licensed under the [Mozilla Public License](https://www.mozilla.org/en-US/MPL) license.
+Unless otherwise specified, all code and content in our repositories are licensed under the [MIT License](https://opensource.org/license/mit).
