@@ -6,7 +6,7 @@ Welcome to the World Bank’s GitHub organization! Here, you’ll find a variety
 
 ## Our Mission
 
-The World Bank Group's mission is to end extreme poverty and boost shared prosperity on a livable planet. We collaborate with governments, private sector partners, and civil society to tackle the most pressing challenges facing the world today. Through innovation, data-driven insights, and sustainable development practices, we aim to create a better future for all. Our work spans various sectors, including education, healthcare, infrastructure, and environmental sustainability. To learn more about who we are and what we do, visit our official website: worldbank.org.
+The World Bank Group's mission is to end extreme poverty and boost shared prosperity on a livable planet. We collaborate with governments, private sector partners, and civil society to tackle the most pressing challenges facing the world today. Through innovation, data-driven insights, and sustainable development practices, we aim to create a better future for all. Our work spans various sectors, including education, healthcare, infrastructure, and environmental sustainability. To learn more about who we are and what we do, visit our official website: [worldbank.org](http://www.worldbank.org/).
 
 ## Contributing
 
@@ -33,4 +33,4 @@ For inquiries or more information about our organization and projects, you can r
 
 ## License
 
-Unless otherwise specified, all code and content in our repositories are licensed under the [MIT License](https://opensource.org/license/mit).
+Unless otherwise specified, all code and content in our repositories are licensed under the [MIT License](https://opensource.org/license/mit) together with the [World Bank IGO Rider](https://github.com/worldbank/.github/blob/main/WB-IGO-RIDER.md). The Rider is purely procedural: it reserves all privileges and immunities enjoyed by the World Bank, without adding restrictions to the MIT permissions. Please review both files before using, distributing or contributing.
